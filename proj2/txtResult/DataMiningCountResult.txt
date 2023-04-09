@@ -1,0 +1,5 @@
+word_count : 63
+alpha_count : 336
+number_count : 1
+blank_count : 70
+other_count : 18

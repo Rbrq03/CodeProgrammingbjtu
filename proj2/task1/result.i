@@ -1,0 +1,5 @@
+"word_count : %d\n"
+"alpha_count : %d\n"
+"number_count : %d\n"
+"blank_count : %d\n"
+"other_count : %d\n"

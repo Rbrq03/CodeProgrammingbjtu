@@ -1,0 +1,3 @@
+D:/college/first_semester_of_sophomore_year/program_design_group_training/lab5/task1/cmake-build-debug/CMakeFiles/task1.dir
+D:/college/first_semester_of_sophomore_year/program_design_group_training/lab5/task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/college/first_semester_of_sophomore_year/program_design_group_training/lab5/task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
